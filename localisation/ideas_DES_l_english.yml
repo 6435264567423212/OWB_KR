@@ -1,0 +1,103 @@
+﻿l_english:
+  spellcheck_ignore: "knighttactics,slayinggiants,rangerslegionwar,rangersnewthreat"
+
+  desertrangers: "데저트 레인저"
+  desertrangers_desc: ""
+
+  raiderconscripts: "레이더 징집"
+  raiderconscripts_desc: ""
+
+  rangercores: "레인저 부대"
+  rangercores_desc: ""
+
+  rangerintervention: "레인저 개입"
+  rangerintervention_desc: ""
+
+  nevadarecruitment: "네바다 징집"
+  nevadarecruitment_desc: ""
+
+  knighttactics: "야간 전술"
+  knighttactics_desc: ""
+
+  rangersworkbench: "레인저의 작업대"
+  rangersworkbench_desc: ""
+
+  wastelandprotect: "황무지 보호"
+  wastelandprotect_desc: ""
+
+  rangersquartermaster: "레인저 병참 장교"
+  rangersquartermaster_desc: ""
+
+  rangersmechanic: "레인저 기계공"
+  rangersmechanic_desc: ""
+
+  rangersrecruiter: "레인저 징집원"
+  rangersrecruiter_desc: ""
+
+  rangerspropaganda: "레인저 선전"
+  rangerspropaganda_desc: ""
+
+  rangersoutreach: "레인저 구제 활동"
+  rangersoutreach_desc: ""
+
+  rangersarmouries: "레인저 무기고"
+  rangersarmouries_desc: ""
+
+  rangerdepot: "레인저 창고"
+  rangerdepot_desc: ""
+
+  rangersaviation: "레인저 항공술"
+  rangersaviation_desc: ""
+
+  standingtall: "높이 서다"
+  standingtall_desc: ""
+
+  reorganizedrangers: "재편성된 레인저"
+  reorganizedrangers_desc: ""
+
+  ncrfunding: "NCR 자금"
+  ncrfunding_desc: ""
+
+  bosfunding_tt: "BoS 자금"
+  bosfunding_tt_desc: " "
+
+  opjericho: "제리코"
+  opjericho_desc: ""
+
+  rangerslegionwar: "레인저-군단 전쟁"
+  rangerslegionwar_desc: ""
+
+  rangermarch: "레인저 행진"
+  rangermarch_desc: ""
+
+  ncrhonours: "NCR 명예"
+  ncrhonours_desc: ""
+
+  nationalguard: "국가 방위군"
+  nationalguard_desc: ""
+
+  armyrangers: "육군 레인저"
+  armyrangers_desc: ""
+
+  acceptcrim: "수감된 범죄자"
+  acceptcrim_desc: ""
+
+  acceptpetty: "수감된 사소한 범죄자"
+  acceptpetty_desc: ""
+
+  kickcrim: "퇴출된 범죄자"
+  kickcrim_desc: ""
+
+  rangerinterventionism: "레인저 개입주의"
+  rangerinterventionism_desc: " "
+
+  DES_army_corps_of_engineers: "육군 엔지니어 부대"
+  DES_army_corps_of_engineers_desc: ""
+
+  DES_protectors_guarantee: "Protector's Guarantee"
+  DES_protectors_guarantee_desc: "§GThe Rangers' protect northern Nevada from the Eighties, but they will not protect it from each other!§!"
+
+  DES_the_guarantees:0 "The Guarantees"
+  DES_the_guarantees_desc:0 "§GYour guarantees will allow you to protect northern Nevada from the Eighties, but this will NOT allow you to intervene on the side their side against any other wars they fight.§!"
+
+  threaten_nevada: "Threaten Nevada"

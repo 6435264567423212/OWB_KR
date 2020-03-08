@@ -1,0 +1,87 @@
+﻿l_english:
+  spellcheck_ignore: "all"
+  # Scripted GUI:
+  PIPBOY_PLUS_OPEN_TT: "핍-보이 플러스"
+
+  PIPBOY_PLUS_BACK_button: "뒤로"
+  PIPBOY_PLUS_BACK_button_TT: "§G클릭§!하면 뒤로 갑니다."
+
+  PIPBOY_PLUS_WELCOME_MESSAGE: "[This.GetRandomWelcomeMessage], §Y[This.GetLeader]§!"
+
+  PIPBOY_PLUS_STARTING_SCREEN_HEADER: "볼트-텍의 선물!"
+  PIPBOY_PLUS_STARTING_SCREEN_TEXT: "핍-보이 플러스에 오신 것을 환영합니다, 볼트-텍의 새로운 맞춤형 백과 사전 - 200 년 동안 원활한 작동을 보장합니다.\n\n핍-보이 플러스는 77 시리즈 렙콘 내열강으로 제작되었으며 완전히 제어 할 수있는 새로운 특허 기술인 슬라이더 기술을 사용하여 열심히 일하는 미국인에게 가장 완벽한 장치입니다! 당사의 혁신적인 4 : 3 진공관 디스플레이는 현재까지 핍-보이에서 가장 내구성이 뛰어난 롭코 산업 군용 로봇 바이저 유리로 구성되어있어 전투의 열기 속에서도 텍스트를 명확하게 읽을 수 있습니다!\n\n구성 지원을 위해 핍-보이 플러스 사용자 매뉴얼을 구입하십시오 :  999.99달러의 저렴한 가격으로 이용 가능합니다!\n\n이 장치는 볼트-텍 핍-보이 2000의 오른쪽 상단 모서리에있는 '도움말' 버튼을 누르면 언제든지 액세스 할 수 있습니다!"
+
+  PIPBOY_PLUS_TAB_REGION_TT: "'§Y지역 및 국가§!' 탭으로 전환하려면 §G클릭§! 하십시오."
+  PIPBOY_PLUS_TAB_MECHANIC_TT: "'§Y기계§!' 탭으로 전환하려면 §G클릭§! 하십시오."
+  PIPBOY_PLUS_TAB_CHANGELOG_TT: "'§Y변경 로그§!' 탭으로 전환하려면 §G클릭§! 하십시오."
+  PIPBOY_PLUS_TAB_CREDITS_TT: "'§Y크레딧§!' 탭으로 전환하려면 §G클릭§! 하십시오."
+  PIPBOY_PLUS_CATEGORY_SELECTED_TT: "이 탭은 현재 선택되어 있습니다."
+
+  PIPBOY_PLUS_NATION_LIST_HEADER: "국가"
+  PIPBOY_PLUS_NATION_HEADER: "§Y[This.GetPipboySelectedCountryName]§!"
+  PIPBOY_PLUS_REGION_LIST_HEADER: "지역"
+  PIPBOY_PLUS_REGION_HEADER: "§Y[This.GetPipboySelectedRegionTitle]§!"
+  PIPBOY_PLUS_MECHANIC_LIST_HEADER: "기계"
+  PIPBOY_PLUS_MECHANIC_HEADER: "§Y[This.GetPipboySelectedMechanicTitle]§!"
+  PIPBOY_PLUS_CHANGELOG_LIST_HEADER: "변경 로그"
+  PIPBOY_PLUS_CHANGELOG_MAJOR_HEADER: "§Y[This.GetPipboySelectedChangelogTitleLong]§!"
+  PIPBOY_PLUS_CHANGELOG_HEADER: "§Y[This.GetPipboySelectedChangelogTitle]§!"
+  PIPBOY_PLUS_CREDITS_HEADER: "§YCREDITS§!"
+
+  PIPBOY_PLUS_NATION_LIST_DESC: "[This.GetPipboySelectedRegionText]"
+  PIPBOY_PLUS_REGION_LIST_DESC: "Here you can find a list of all regions. If you want to read more about a specific region or a country that is located in the region, you can click on the region's name."
+  PIPBOY_PLUS_MECHANIC_LIST_DESC: "Here you can find a list of all mechanics. If you want to read more about a specific mechanic, you can click on the mechanic's name."
+  PIPBOY_PLUS_CHANGELOG_MAJOR_LIST_DESC: "Here you can find a list of all updates, of which the changelogs are included. If you want to read more about a specific update's changelog, you can click on that update's name."
+  PIPBOY_PLUS_CHANGELOG_MINOR_LIST_DESC: "[This.GetPipboySelectedMajorUpdateText]"
+
+  PIPBOY_PLUS_NATION_TXT: "[This.GetPipboySelectedCountryText]\n"
+  PIPBOY_PLUS_MECHANIC_TXT: "[This.GetPipboySelectedMechanicText]\n"
+  PIPBOY_PLUS_CHANGELOG_TXT: "[This.GetPipboySelectedChangelogText]\n"
+  PIPBOY_PLUS_CREDITS_TXT: "[This.GetPipboySelectedCreditsText]\n"
+
+  PIPBOY_PLUS_COUNTRY_LIST_BUTTON_TT: "§G클릭§! 해서 다음 문서를 봅니다 : §Y[This.GetNameWithFlag]§!"
+  PIPBOY_PLUS_COUNTRY_LIST_BUTTON_TT_DELAYED: "§G오른쪽 버튼 클릭§! 하여 지도의 중심을 [This.GetAdjective]의 수도에 맞춥니다, §Y[This.Capital.GetName]§!."
+  PIPBOY_PLUS_REGIONS_LIST_BUTTON_TT: "§G클릭§! 해서 해당 지역의 문서를 봅니다 : '§Y[This.GetPipBoyRegion]§!'"
+  PIPBOY_PLUS_REGIONS_LIST_BUTTON_TT_DELAYED: "§G오른쪽 버튼 클릭§! 하여 지도의 중심을 맞춥니다. §Y[This.GetPipBoyRegionCenterState]§!"
+  PIPBOY_PLUS_MECHANICS_LIST_BUTTON_TT: "§G클릭§! 해서 의 기사를 봅니다 : §Y[This.GetPipBoyMechanics]§!."
+  PIPBOY_PLUS_CHANGELOG_MAJOR_LIST_BUTTON_TT: "§GClick§! to view the list of updates that were part of the §Y[This.GetPipBoyChangelogLong]§!."
+  PIPBOY_PLUS_CHANGELOG_MINOR_LIST_BUTTON_TT: "§GClick§! to view the change log of the §Y[This.GetPipBoyChangelog]§!."
+  PIPBOY_PLUS_CREDITS_BUTTON_TT: "§G클릭§! to view the credits of §YOld World Blues§!."
+  PIPBOY_PLUS_FLAG_BUTTON_TT: "§G클릭§! 하여 지도의 중심을 수도에 맞춥니다, §Y[This.Capital.GetName]§!."
+
+  PIPBOY_PLUS_NATION_ENTRY_NAME: "[This.GetFlag] §Y[This.GetName]§!"
+  PIPBOY_PLUS_REGION_ENTRY_NAME: "§Y[This.GetPipBoyRegion]§!"
+  PIPBOY_PLUS_MECHANIC_ENTRY_NAME: "§Y[This.GetPipBoyMechanics]§!"
+  PIPBOY_PLUS_CHANGELOG_MAJOR_ENTRY_NAME: "§Y[This.GetPipBoyChangelogLong]§!"
+  PIPBOY_PLUS_CHANGELOG_ENTRY_NAME: "§Y[This.GetPipBoyChangelog]§!"
+
+  PIPBOY_PLUS_COUNTRY_LIST_NO_ENTRIES_INFO: "§RREGIONAL DATA CORRUPTION, DEFRAGMENTING§!"
+
+  #########################################
+  # CREDITS
+  #########################################
+  PIPBOY_PLUS_CREDITS_TEXT_CREDITS: "Old World Blues would not be possible without the host of wonderful developers we have working on the team currently. Each of them brings unique skills and thought processes to the mod, without which we would never be able to achieve the quality we constantly strive for. The OWB team, everybody: \n\n§YAlex, Calph, CelsiuZ, chacolah, Dan, David M, evil_c0okie, ey_b0ss, Faeelin, Foulsbane, Garnithor, HappyNTH, Herckeim, HK33, ICodeMaster, Indyclone77, LightningEagle, LimonenZitrone, Loonybinjin, Mechano, MrBlazzar, NuclearForest, PineapplePansy, Ritter Runkel, Roure, shawniepie, shoggi, Shudderfly, Skip, Soviet_Cyber, Spart117MC, Striam, T the Light Tank, Teddy, The Colonel, theddd1, thread, wtchappell, Zapdude, Zusk and Эльдар§! \n\nWe're also incredibly grateful to all the developers who have been with us in the past, but have left the team along the way. \n\nWe'd also like to thank our testers (be them for Alpha, 1.0, 2.0 or 2.1) for their hard work and dedication to getting this mod playable and enjoyable for you, the fans. Without their advice and guidance we'd have burnt out long ago, and launch would be even more of a buggy mess than it was. \n\nThe HOI4 modding community has also been incredibly helpful in the creation, and continuation, of Old World Blues. Without the friendly and helpful attitudes of many members of the community we'd have struggled to overcome certain problems, and this spitit of cooperation we stive to always follow ourselves. A special thanks goes to §RYard1§! for his code contribtuions, and §RDayshine§! for the wonder that is CWTools. \n\nThe following artists have work that has been used in the mod. If you'd like to find links to these artists and their pages, check out the Steam Workshop page or ask in our Discord. For specifics or other questions, feel free to ask in our Discord. \n\n§RStraidy§!: Leader portraits and event pictures \n§RTakeOFFFly§!: Event pictures \n§RfenandOfc§!: Leader portraits \n§RSkizoh§!: Leader portraits \n§RJosh Jertberg and Andrée Wallin§!: Leader portraits \n§RIyad Sabouni§!: Menu art for 1.0 \n§RSgtDelta§!: Event pictures \n§R5ofnovember§!: Event pictures \n§RMarko-Djurdjevic§!: Leader portraits \n§RBeardedwonder95§!: Screenshots for event pictures \n§RMario Rico§!: Leader portraits \n§RHendry Roesly§!: Leader portraits \n§RElena Nozdrina§!: Leader portraits \n§RKristianKnutsen§!: 3D Gfx \n§RNewbStyle§!: 3D Gfx \n§RenaFox§!: 3D Gfx \n\nFinally, the most important people in the creation of this mod: \n\nYou guys. The players. The fans. Those of you who report bugs, or break the game, or discuss our mod far and wide. Those of you who give suggestions, or contribute code, or ask us challenging questions. Those of you who play our mod. At the end of the day, the mod team is a bunch of friends, and what keeps us going is not only each other, but the joy we get from seeing people play, enjoy and love our humble mod. \n\n§YSo thank you, one and all.§!"
+
+  #########################################
+  # WELCOME STRINGS
+  #########################################
+  string_random_welcome_message_howdy: "안녕"
+  string_random_welcome_message_hello: "안녕하세요"
+  string_random_welcome_message_hey: "이봐"
+  string_random_welcome_message_hi_there: "안녕"
+  string_random_welcome_message_good_day: "좋은 날!"
+  string_random_welcome_message_good_day_short: "좋은 날"
+  string_random_welcome_message_cheers: "건배"
+  string_random_welcome_message_greetings: "안녕"
+  string_random_welcome_message_hail: "잘 지내세요?"
+  string_random_welcome_message_welcome: "환영해요"
+  string_random_welcome_message_buenos_dias: "좋은 아침"
+  string_random_welcome_message_bienvenido: "환영합니다"
+  string_random_welcome_message_alo: "안녕하세요"
+  string_random_welcome_message_diga: "안녕하신가"
+  string_random_welcome_message_bueno: "음"
+  string_random_welcome_message_muy_buenos: "아주 좋아"
+  string_random_welcome_message_salve: "안녕하십니까"
+  string_random_welcome_message_saludos: "안녕하세요"
+  string_random_welcome_message_salud: "건배"
+  string_random_welcome_message_hola: "안녕하세요"
