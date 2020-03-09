@@ -1,7 +1,7 @@
 ﻿l_english:
  # decisions
-  form_cascadia: "Form the Cascadian Republic"
-  form_cascadia_desc: "Our victory against the raiders of the Broken Coast has emboldened our people. Across the wastes of the north west settlers, traders and wastelanders appreciate our efforts made to bring safety to this land. The time is ripe that we take advantage of this swell of support and declare a new nation focused on protecting the rights of those living within her lands."
+  form_cascadia: "카스카디아 공화국 형성"
+  form_cascadia_desc: "부서진 해안의 레이더에 대한 승리로 인해 우리 국민들이 대담해졌습니다. 북서부 전역의 정착민, 상인 그리고 황무지인들이 이 땅에 안정을 가져다준 우리의 노력에 감사해하고 있습니다. 이 엄청난 지지를 이용해 우리 땅 안에 살고 있는 사람들의 권리를 보호하는데 집중하는 새로운 국가를 형성할 때가 되었습니다."
   brk_decisions: "정치적 의제"
   brk_decisions_desc: ""
   brk_decision_build_the_fleet: "함대 구축"
