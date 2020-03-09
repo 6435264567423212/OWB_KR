@@ -1,7 +1,7 @@
 ﻿l_english:
  
- SLAVE_TOOLTIP: "You Have [?slave_number_display] slaves \n\n You Gain §G[?slave_monthly]§! slaves per month. \n  \n"
- SLAVE_TOOLTIP_delayed: "As our number of slaves increases our industrial capacity is also increased. For every 200 slaves this perk will become more valuable."
+ SLAVE_TOOLTIP: "당신은 [?slave_number_display]명 노예를 가지고 있습니다 \n\n 당신은 월당 §G[?slave_monthly]§!명 노예를 얻습니다. \n  \n"
+ SLAVE_TOOLTIP_delayed: "노예 수가 증가하면서 산업 능력도 증가합니다. 매 200명 노예를 손에 넣을 때마다 이 퍽이 더욱 가치를 늘릴 겁니다."
  SLAVE_MAIN: "[?slave_number_display|*0]"
  slaves_taken: "We gain: \n  §G100 §! slaves \n §G Increased monthly slave capturing §!"
  slaves_capture: "Monthly Slave Capturing Increased By:§Y 3.0% §!"
