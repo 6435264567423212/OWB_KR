@@ -1,9 +1,9 @@
 ﻿l_english:
  
- gamble_header_text: "Welcome to the OWB - Expanded gambling screen!"
- gamble_amount_text: "How many caps do you want to wager?"
- current_pot_text: "The Current Pot Is £bottle_cap_20x20_texticon §Y[?pot]§!"
- game_over_text: "Game Over Click Here to Continue"
+ gamble_header_text: "올드 월드 블루스의 확장된 도박 화면에 오신걸 환영합니다!"
+ gamble_amount_text: "얼마만큼 캡을 걸고 싶으신가요?"
+ current_pot_text: "현재 포트는 £bottle_cap_20x20_texticon §Y[?pot]§! 입니다"
+ game_over_text: "게임이 끝났습니다 여기를 눌러서 계속하세요"
  
  prev_loss: "GFX_previous_lost"
  prev_win: "GFX_previous_won"
