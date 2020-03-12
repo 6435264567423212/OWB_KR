@@ -1,6 +1,6 @@
 ﻿l_english:
   MENU_DISCORD: "§MOWB 디스코드에 가입!§!"
-  RULE_IMPROVERELATIONS_BLOCKED_TT:0 "§RImprove Relations through Events/Decisions/Focuses§!."
+  RULE_IMPROVERELATIONS_BLOCKED_TT:0 "§R이벤트/결정/중점을 이용해 관계를 개선합니다§!."
   RULE_ALLOW_LICENSING_BLOCKED_FOR_AI_TT:0 "§RCan't License from the AI§!."
   has_mutually_positive_opinion_with_prev_tt: "Has §Gmutually positive§! opinions with §Y[Prev.GetNameDef]§!.\n"
   within_reachable_land_distance_of_prev_tt: "Owns a §Ghome-area§! §Ystate§! within 200 km of any of §Y[Prev.GetNameDef]'s§! §Ghome-area§! §Ystates§!.\n"
